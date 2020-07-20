@@ -1,0 +1,16 @@
+{
+  "name": "ng2-express",
+  "version": "0.0.2",
+  "description": "example Angular npm package",
+  "ngPackage": {
+    "lib": {
+      "entryFile": "public-api.ts"
+    },
+    "dest": "dist"
+  },
+  "scripts": {
+    "update-npm": "npm version patch && npm publish"
+  },
+  "author": "David Donovan",
+  "license": "MIT"
+}
