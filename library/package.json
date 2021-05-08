@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@angular/compiler-cli": "9.1.0",
-    "ng-packagr": "^10.0.2",
+    "ng-packagr": "^10.1.1",
     "typescript": "3.8.3"
   }
 }
